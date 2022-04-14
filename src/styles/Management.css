@@ -1,0 +1,9 @@
+.overall-system {
+    display: flex;
+    align-items: center;
+    
+}
+.overall-system h1 {
+    margin: 10px;
+}
+
