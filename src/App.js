@@ -2,6 +2,8 @@ import React, { useState}  from "react";
 import Header from './components/Header.js';
 
 import './App.css';
+import Management from "./components/Management.js";
+
 
 function App() {
   // const [view, setView] = useState('Login')
@@ -17,6 +19,7 @@ function App() {
   return (
     <div>
       <Header/>
+      <Management/>
     </div>
   
   );
